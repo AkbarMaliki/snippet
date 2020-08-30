@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "browserconfig.xml"
   },
   {
-    "revision": "2e6a3eae9a4f32c0d6eb",
+    "revision": "cf259ba085eb25267d98",
     "url": "css/app.384f9967.css"
   },
   {
@@ -136,12 +136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "ea4be6c874fccf1f28ee8d9eada9d611",
+    "revision": "c9bd4cc0aa293b106ce9e9f9ece4dd87",
     "url": "index.html"
   },
   {
-    "revision": "2e6a3eae9a4f32c0d6eb",
-    "url": "js/app.20f978b6.js"
+    "revision": "cf259ba085eb25267d98",
+    "url": "js/app.711e1b88.js"
   },
   {
     "revision": "a08e55f0c7153dd0a57f",
@@ -156,8 +156,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.f3312738.js"
   },
   {
-    "revision": "987b5979ecb25d0ad7b0",
-    "url": "js/page-index.e55cab5f.js"
+    "revision": "7a047ef913bd4a0ac095",
+    "url": "js/page-index.071044fe.js"
   },
   {
     "revision": "04dd4a6b374852a7830cab7d67e21f62",
